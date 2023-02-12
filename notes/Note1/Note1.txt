@@ -1,0 +1,40 @@
+1 - PLayer -
+	1.1 - Importando assets; - FEITO
+	1.2 - Criar o objeto do player e dar a sprite pra ele em seguida colocalo na room; - FEITO
+	1.3 - Fazendo ele subir com espaço; - FEITO
+	1.4 - Simulando a gravidade; - FEITO
+	1.5 - Limitando a velocidade de queda; - FEITO
+	1.6 - Sempre que ele subir criar uma fumaça; - FEITO
+	1.7 - Fazendo a fumaça crescer e sumir; - FEITO
+2 - Obstaculos -
+	2.1 - Criando as sprites dos canos; - FEITO
+	2.2 - Criando objeto dos canos; - FEITO
+	2.3 - Movendo as montanhas para a esquerda; - FEITO
+	2.4 -	Aumentando a velocidade dependendo do level. - feito;
+	2.5 -
+3 - Geração procedural dos obstaculos -
+	3.1 - Criando o objeto CPU; - FEITO
+	3.2 - Fazendo ele criar as montanhas - Feito
+	3.3 - Alterando a frequencia da criação dos canos - Feito 
+	3.4 - Alterando a geração delas - Feito
+	3.5 - Ajustar o intervalo dos canos - feito
+4 - Fundo
+	4.1 - criando background - Feito
+	4.2 - Aumentar a velocidade com relação ao nivel - feito
+	4.3 - Criando Um Chão - feito
+5 - Sistema de pontos -
+	5.1 - Iniciando sistema de pontos - Feito;
+	5.2 - Exibindo os pontos - Feito;
+	5.3 - Melhorando a exibição dos pontos na tela do jogador - Feito;
+	5.4 - 
+6 - Sistema de niveis
+	6.1 - Correlacionando pontos com niveis;
+	6.2 - Fazendo os pontos aumentar pelo nivel;
+7 - Introduzindo os sons -
+	7.1 - add a musica; - feito
+	7.2 - tocando a musica; feito
+8 - Criando tela de inicio 
+	8.1 - sala de inicio - FEITO 
+	8.2 - criando sprite de inicio - FEITO
+	8.3 - criando animação da tela de inicio - FEITO
+9 -
