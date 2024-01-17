@@ -15,5 +15,3 @@ proximo_nivel = 100;
 
 //Iniciando a musica
 audio_play_sound(snd_musica, 1, true);
-
-
