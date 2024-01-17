@@ -2,9 +2,4 @@
 
 image_index = global.level - 1;
 
-
-
-
-
-
-
+//Hallsey esteve aqui.
